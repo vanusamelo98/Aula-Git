@@ -21,6 +21,8 @@ https://git-scm.com/downloads
 - [x ] Você precisa resolver um conflito.
 - [x ] Antes de enviar a resolução, precisamos atualizar o projeto local.
 
+- [x ] Você precisa volta um arquivo para um determinado momento da linha do tempo.
+- [x ] Você precisa recuperar algo deletado.
 
 * `git init` // inicia a linha do tempo
 * `git add` // adiciona ou atualiza mudanças para irem para a linha do tempo
@@ -30,3 +32,7 @@ https://git-scm.com/downloads
 * `git show` // apresenta determinado ponto da história
 * `git branch` // gerenciar novas linhas do tempo
 * `git checkout` // manipula as linhas do tempo
+* `git merge` // unir linhas do tempo
+* `git push` // envia alterações locais para o repositório remoto
+* `git clone` // clonar um projeto / repositório
+* `git pull` // puxa do repositório remoto
